@@ -1,0 +1,1 @@
+# friends-generator
